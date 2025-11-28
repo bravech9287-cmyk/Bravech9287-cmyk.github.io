@@ -198,9 +198,9 @@ function loadGiscus() {
   const script = document.createElement('script');
   script.src = 'https://giscus.app/client.js';
   script.setAttribute('data-repo', 'Bravech9287-CMYK/Bravech9287-CMYK.github.io');
-  script.setAttribute('data-repo-id', 'YOUR_REPO_ID'); // TODO: 실제 값으로 변경 필요
+  script.setAttribute('data-repo-id', 'R_kgDOQec2DA'); // TODO: 실제 값으로 변경 필요
   script.setAttribute('data-category', 'General');
-  script.setAttribute('data-category-id', 'YOUR_CATEGORY_ID'); // TODO: 실제 값으로 변경 필요
+  script.setAttribute('data-category-id', '[ENTER CATEGORY ID HERE]'); // TODO: 실제 값으로 변경 필요
   script.setAttribute('data-mapping', 'pathname');
   script.setAttribute('data-strict', '0');
   script.setAttribute('data-reactions-enabled', '1');
